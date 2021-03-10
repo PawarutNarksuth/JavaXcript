@@ -1,2 +1,0 @@
-# JavaXcript
-//fadsfsadfasd
