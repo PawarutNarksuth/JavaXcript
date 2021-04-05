@@ -16,7 +16,6 @@ function oneOddOneEven(number){
     else{
         return false;
     }
-
 }
 
 console.log(oneOddOneEven(12));

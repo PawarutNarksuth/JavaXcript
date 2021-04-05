@@ -13,6 +13,6 @@ function matchLastItem(arr){
     }
 }
 
+console.log(matchLastItem(["req" , "6hi" , "g" ,"req6hig"]));
 console.log(matchLastItem([8 , "thunder" ,true ,"8thundertrue"]));
 console.log(matchLastItem([1 , 1 , 1 , "11"]));
-console.log(matchLastItem(["req" , "6hi" , "g" ,"req6hig"]));
